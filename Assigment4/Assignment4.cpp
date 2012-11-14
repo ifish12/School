@@ -1,8 +1,8 @@
 /*
-	Geoffrey Shapirio
+	Geoffrey Shapiro
 	Assignment 4
 	Oct, 26, 2012
-	IDs and such??????
+	Using two arrays to validate 
 */ 
 #include <iostream>
 #include <iomanip>
@@ -11,18 +11,19 @@ using namespace std;
 void main()
 {
 	const int MAX_IDS = 8;
-	const int GAMES  = 4;
+	const int GAMES   = 4;
 
-	int IDs[MAX_IDS] = {126, 376, 495, 553, 575, 643, 768, 850};
-	int scores[MAX_IDS] = {0};
-	int count;
-	int totals = 0;
-	int who;
-	int ID; 
-	int score;
-	int scoreTotal = 0;
-	int highest;
+	int       IDs[MAX_IDS]    = {126, 376, 495, 553, 575, 643, 768, 850};
+	int       scores[MAX_IDS] = {0};
+	int       count;
+	int       totals;
+	int       who;
+	int       ID; 
+	int       score;
+	int       scoreTotal;
+	int       highest;
 
+	totals = 0;
 
 	cout << "GAME TESTING - TESTERS PLAY 4 GAMES EACH" << endl;
 	cout << endl;
@@ -33,13 +34,17 @@ void main()
 		cout << "Possible Tester IDs are ";
 		for (count = 0; count < MAX_IDS - 1; count++)
 			cout << IDs[count] << ", ";
-			cout << IDs[MAX_IDS - 1] << endl;
+
+		cout << IDs[MAX_IDS - 1] << endl;
+		
+		
 
 		do
 		{
 
-			cout << "Enter your employee id (0 to exit): ";
+			cout << "Enter Tester ID, 0 to exit: ";
 			cin  >> ID;
+			cout << endl;
 
 			if (ID == 0)
 				break;
@@ -77,6 +82,7 @@ void main()
 			if (scoreTotal > highest)
 				highest = scoreTotal;
 		}
+		if (count == GAMES)
 		totals++;
 
 		scores[who] = scoreTotal;
@@ -85,18 +91,19 @@ void main()
 			break;
 
 	}
-	if (score > 0)
+	if (totals > 0)
 	{
 	system ("cls");
 	cout << "GAME TESTING - SUMMARY" << endl;
 	cout << endl;
 	cout << totals << " testers have recorded their 4 game scores" << endl;
 	cout << endl;
-	cout << "Tester IDs          Cumulative Score" << endl;
+	cout << "Tester ID     Cumulative Score" << endl;
 	for (count = 0; count < MAX_IDS; count++)
 		if (scores[count] > 0)
-			cout << IDs[count] << "                              " << scores[count] << endl;
+			cout << setw(9) << IDs[count] << setw(21)<< scores[count] << endl;
 	cout << endl;
 	cout << "The highest cumulative score is " << highest << endl << endl;
 	}
 }
+
