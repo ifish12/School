@@ -17,16 +17,16 @@
 #include <string>
 using namespace std;
 
-void   TicketInfo(string&);
-void   Month(int&, int&);
-void   sortArrays (int[], double[], const int, string[]);
-void   BadgeNum(int[], int&, const int);
-void   Driver(string, string&, const int);
-double Fines(int&, int, double[], double&, const int);
-void   DisplaySummary (int, int, string, string, string, double, string);
-void   theEnd (double,int, int[], string[], double[], const int);
+int    TicketInfo(string&);
+int    Month(int&, int&);
+int   sortArrays (int[], double[], const int, string[]);
+int    BadgeNum(int[], int&, const int);
+int    Driver(string, string&, const int);
+int    Fines(int&, int, double[], double&, const int);
+int    DisplaySummary (int, int, string, string, string, double, string);
+int     theEnd (double,int, int[], string[], double[], const int);
 
-void main()
+int main()
 {
 	const int MAX_BADGE      = 4;
 	const int MAX_FIRST      = 20;
@@ -73,9 +73,11 @@ void main()
 	sortArrays (badge, officerFines, MAX_BADGE, officerName);
 	theEnd ( totalFines,totalTickets, badge, officerName, officerFines, MAX_BADGE);
 	system("pause");
+
+	return 0;
 }
 
-void TicketInfo (string& ticket)
+int TicketInfo (string& ticket)
 {
 	do
 	{
@@ -91,10 +93,10 @@ void TicketInfo (string& ticket)
 	while(ticket[0] != 'Y' && ticket[0] != 'N');
 
 	
-	
+	return 0;
 }
 
-void Month(int& month, int& day)
+int Month(int& month, int& day)
 {
 	do
 	{
@@ -109,9 +111,11 @@ void Month(int& month, int& day)
 		cin  >> month; 
 	}
 	while(month > 12 || month < 1);
+
+	return 0;
 }
 
-void BadgeNum(int badge[], int& guy, const int MAX)
+int BadgeNum(int badge[], int& guy, const int MAX)
 {
 	int count;
 		
@@ -131,9 +135,11 @@ void BadgeNum(int badge[], int& guy, const int MAX)
 	}
 	while(guy != badge[count]);
 
+	return 0;
+
 }
 
-void Driver (string question, string& answer, const int MAX) // <-- Function definition
+int Driver (string question, string& answer, const int MAX) // <-- Function definition
 {
 	int count;
 	
@@ -150,6 +156,8 @@ void Driver (string question, string& answer, const int MAX) // <-- Function def
 
 	for (count = 1; count < answer.length(); count++)
 		answer[count] = tolower (answer[count]); // Making all the other letters in the string lowercase
+
+	return 0;
 }
 
 
@@ -188,7 +196,7 @@ double Fines(int& total, int who, double officer[], double& totalFine, const int
 
  
 
-void DisplaySummary (int day, int year, string month, string guy, string first, double fines, string last)
+int DisplaySummary (int day, int year, string month, string guy, string first, double fines, string last)
 {
 	string dayEndings[4] = { "th", "st", "nd", "rd" };
 	string order;
@@ -206,11 +214,13 @@ void DisplaySummary (int day, int year, string month, string guy, string first, 
 	cout << "Offender " << first << " " << last << " was fined ";
 	cout << setw (3) << fixed << setprecision(2) << fines << "$" << endl;
 	cout << endl << endl;
+
+	return 0;
 }
 
 
 
-void sortArrays (int badge[], double fine[], const int MAX, string officer[])
+int sortArrays (int badge[], double fine[], const int MAX, string officer[])
 {
 		int    start;
 		int    element;
@@ -224,10 +234,11 @@ void sortArrays (int badge[], double fine[], const int MAX, string officer[])
 					swap (officer[start], officer[element]);
 
 				}
+			return 0;
 }
 
 
-void theEnd (double totalFine,int total, int officer[], string names[], double fines[], const int MAX)
+int theEnd (double totalFine,int total, int officer[], string names[], double fines[], const int MAX)
 {
 	int count;
 
@@ -237,6 +248,7 @@ void theEnd (double totalFine,int total, int officer[], string names[], double f
 
 	for (count = 0; count < MAX; count++)
 		cout << setw(7) << left << officer[count] << names[count] << "\t" << setw(21) << setprecision(2) << right << fines[count] << "$" << endl;
+return 0;
 }
 
 

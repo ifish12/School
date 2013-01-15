@@ -15,7 +15,7 @@
 #include <iostream>
 using namespace std;
 
-void main()
+int main()
 {
 	int    batch;
 	int    result1;
@@ -92,5 +92,5 @@ void main()
 	cout << "Sum of all first  results:     " << result1Sum    << endl;
 	cout << "Sum of all second results:     " << result2Sum    << endl;
 	cout << "Sum of all third results:      " << result3Sum    << endl;
-
+return 0;
 } 
