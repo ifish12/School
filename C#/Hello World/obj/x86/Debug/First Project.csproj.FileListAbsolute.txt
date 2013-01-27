@@ -1,0 +1,23 @@
+H:\Winter 2013\C#\Projects\First Project\bin\Debug\First Project.exe
+H:\Winter 2013\C#\Projects\First Project\bin\Debug\First Project.pdb
+H:\Winter 2013\C#\Projects\First Project\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Winter 2013\C#\Projects\First Project\obj\x86\Debug\First_Project.Frmhello.resources
+H:\Winter 2013\C#\Projects\First Project\obj\x86\Debug\First_Project.Properties.Resources.resources
+H:\Winter 2013\C#\Projects\First Project\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Winter 2013\C#\Projects\First Project\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Winter 2013\C#\Projects\First Project\obj\x86\Debug\First Project.exe
+H:\Winter 2013\C#\Projects\First Project\obj\x86\Debug\First Project.pdb
+H:\Winter 2013\C#\Projects\First Project\obj\x86\Debug\First_Project.FrmDate1.resources
+H:\Winter 2013\C#\Projects\Hello World\obj\x86\Debug\First Project.exe
+H:\Winter 2013\C#\Projects\Hello World\obj\x86\Debug\First Project.pdb
+H:\Winter 2013\C#\Projects\Hello World\bin\Debug\First Project.exe
+H:\Winter 2013\C#\Projects\Hello World\bin\Debug\First Project.pdb
+H:\Winter 2013\C#\Projects\Hello World\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Winter 2013\C#\Projects\Hello World\obj\x86\Debug\First_Project.FrmDate1.resources
+H:\Winter 2013\C#\Projects\Hello World\obj\x86\Debug\First_Project.Frmhello.resources
+H:\Winter 2013\C#\Projects\Hello World\obj\x86\Debug\First_Project.Properties.Resources.resources
+H:\Winter 2013\C#\Projects\Hello World\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Winter 2013\C#\Projects\Hello World\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Winter 2013\C#\Projects\Hello World\obj\x86\Debug\First_Project.FrmConsume.resources
+H:\Winter 2013\C#\Projects\Hello World\obj\x86\Debug\First_Project.FrmMenu1.resources
+H:\Winter 2013\C#\Projects\Hello World\obj\x86\Debug\First_Project.FrmArea.resources
