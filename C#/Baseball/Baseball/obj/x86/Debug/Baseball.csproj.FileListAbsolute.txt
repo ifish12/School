@@ -1,0 +1,7 @@
+\\psf\Home\Desktop\C#\Baseball\Baseball\bin\Debug\Baseball.exe
+\\psf\Home\Desktop\C#\Baseball\Baseball\bin\Debug\Baseball.pdb
+\\psf\Home\Desktop\C#\Baseball\Baseball\obj\x86\Debug\Baseball.Form1.resources
+\\psf\Home\Desktop\C#\Baseball\Baseball\obj\x86\Debug\Baseball.Properties.Resources.resources
+\\psf\Home\Desktop\C#\Baseball\Baseball\obj\x86\Debug\Baseball.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\C#\Baseball\Baseball\obj\x86\Debug\Baseball.exe
+\\psf\Home\Desktop\C#\Baseball\Baseball\obj\x86\Debug\Baseball.pdb

@@ -1,0 +1,8 @@
+\\psf\Home\Desktop\C#\Billboard\Billboard\obj\x86\Debug\Billboard.frmListBox.resources
+\\psf\Home\Desktop\C#\Billboard\Billboard\obj\x86\Debug\Billboard.Properties.Resources.resources
+\\psf\Home\Desktop\C#\Billboard\Billboard\obj\x86\Debug\Billboard.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\C#\Billboard\Billboard\bin\Debug\Billboard.exe
+\\psf\Home\Desktop\C#\Billboard\Billboard\bin\Debug\Billboard.pdb
+\\psf\Home\Desktop\C#\Billboard\Billboard\obj\x86\Debug\Billboard.exe
+\\psf\Home\Desktop\C#\Billboard\Billboard\obj\x86\Debug\Billboard.pdb
+\\psf\Home\Desktop\C#\Billboard\Billboard\obj\x86\Debug\Billboard.csprojResolveAssemblyReference.cache
