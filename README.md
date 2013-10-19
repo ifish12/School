@@ -1,7 +1,7 @@
 School
 ---
 
-ORIGINAL CODE DO NOT STEAL.
+ORIGINAL CODE DO NOT STEAL. (And some Flash animation)
 
 License
 ---
