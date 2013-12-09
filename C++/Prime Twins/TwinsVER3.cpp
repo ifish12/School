@@ -47,38 +47,38 @@ int main()
 		  {
 			  if (p % t == 0) // Checking is the number is divisible evenly
 			  {
-				  f = t;
-				  t = p;
+				  f = t; // Not prime 
+				  t = p; // giving T the lower limit
 			  }
 			  else
-		      t = t + 2;
+		      t = t + 2; // Incremening T by two and it is prime
 
 		  }
-		  if (f == 1)
+		  if (f == 1) // This means we found at least one prime
 		  {
 			  cout << "Prime!";
 			  cout << setw(6) << p << '\n';
-			  if (sw == 0)
+			  if (sw == 0) // Checking if this is already a twin
 			  {
-				  sw = 1; // The checker for the first prime number in the twins set
-				  p = p + n;
+				  sw = 1; // We found the first prime in the set
+				  p = p + n; // Making P the next nubmer to check
 			  }
-			  else if (sw == 1)
+			  else if (sw == 1) // The 2nd twin has been found
 			  {
 				  cout << p-n << " and " << p << " are twins! \n";
-				  sw = 0;
-				  p = p - n;
-				  p = p + 2;
+				  sw = 0; // set switch back to 0
+				  p = p - n; // make P back to the original number
+				  p = p + 2; // move towards the next number
 			  }
 		  }
 		  else
 		  {
-			  if (sw == 1)
+			  if (sw == 1) // We found one prime number but no twin
 			  {
-				  sw = 0;
-				  p = p - n;
+				  sw = 0; // Restart
+				  p = p - n; // Make P normal again
 			  }
-			  p = p + 2;
+			  p = p + 2; // increment P
 
 		  }
 		  
