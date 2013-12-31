@@ -1,12 +1,12 @@
 School
 ---
 
-ORIGINAL CODE DO NOT STEAL. (And some Flash animation)
+ORIGINAL CODE DO NOT STEAL. 
 
 License
 ---
 
-Copyright (c) 2012-2013, Geoff Shapiro
+Copyright (c) 2012-2014, Geoff Shapiro
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
