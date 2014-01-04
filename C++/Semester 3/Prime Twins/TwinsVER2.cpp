@@ -25,27 +25,23 @@ using namespace std;
 
 int main()
 {
-   int lo, hi, p, t, f, n, sw;
-   sw = 0;
+   int lo, hi, p, t, f;
 
    cout << "This program generates odd numbers between odd limits lo and hi.\n";
    cout << "Type a positive odd integer lower limit lo: \n";
    cin >> lo;
    cout << "Type a positive odd integer upper limit hi >= lo + 2: \n";
    cin >> hi;
-    cout << "Type a gap that you want us to use for the twins check: \n";
-   cin >> n;
 
    p = lo;
    while( p <= hi )            //until upper limit
       {
-		
-		  t = 3;     // Most numbers that are prime, and also odd that are prime can't be devided by 3
+		  t = 3;
 		  f = 1;
 
 		  while((t*t <= p) && f == 1)
 		  {
-			  if (p % t == 0) // Checking is the number is divisible evenly
+			  if (p % t == 0)
 			  {
 				  f = t;
 				  t = p;
@@ -54,34 +50,14 @@ int main()
 		      t = t + 2;
 
 		  }
-		  if (f == 1)    // We found a prime number
+		  if (f == 1)
 		  {
 			  cout << "Prime!";
 			  cout << setw(6) << p << '\n';
-			  if (sw == 0)
-			  {
-				  sw = 1; // The checker for the first prime number in the twins set
-				  p = p + n;
-			  }
-			  else if (sw == 1)
-			  {
-				  cout << p-n << " and " << p << " are twins! \n";
-				  sw = 0;
-				  p = p - n;
-				  p = p + 2;
-			  }
-		  }
-		  else
-		  {
-			  if (sw == 1)
-			  {
-				  sw = 0;
-				  p = p - n;
-			  }
-			  p = p + 2;
-
 		  }
 		  
+		  
+		  p = p+2; 
       }                        //end while
    system( "pause");
    return 0;
