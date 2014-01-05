@@ -29,8 +29,8 @@ int main()
    int i, j, c;
    int r; // The number we want to insert into the array
    int tail = -1; // How many variables are in the set of numbers
-   int high;
-   int low;
+   int high; // Highest number
+   int low; // Lowest Number
    int mm; 
    double xm;
    int pCan[1000] = {0}; // The array to use for storing the C values 
@@ -45,39 +45,36 @@ int main()
    cout << endl;
 
    
-   xm = high + 1;				            //find corresponding table-size mm for this limit
+   xm = high + 1;//find corresponding table-size mm for this limit
    mm = sqrt(high +1);
    
-   for ( i=1; i < high; i++ )         // begin row loop; note row mm [i.e. last] is empty
-   {   for ( j= i + 1; j < mm; j++)      // show p-candidates on rest of row
+   for ( i=1; i < high; i++ )// begin row loop; note row mm [i.e. last] is empty
+   {   for ( j= i + 1; j < mm; j++)// show p-candidates on rest of row
 	  {   c = i*i + j*j;
 		  if(c >= low && c <= high) // Only putting the the numbers within the limits in the array.
 			{   r = c; 
-				MakeList(tail, r, pCan);
-				testCounter++;     // Incrementing of subscript
+				MakeList(tail, r, pCan); // Call the MakeList function
+				testCounter++; // Incrementing of subscript
 		    }
       }  
 
    }
-
-
-   // Variables I'm going to use just for the perfect square stuff
+   // Variables for the perfect square(V4)
    double sq;
    int perfectSQ;
    int pythC = 0;
-   int pyth[1000] = {0}; // The array we're going to use to store the pythagorean squares
+   int pyth[1000] = {0}; // The array to store the pythagorean squares
 
-   // End of vatiables I'm going to be using for the perfect squares
    cout << "q" << "     " << "p[q]\n \n";
    for (int count = 0; count < testCounter; count++)
    {  
-	   sq = sqrt((double)pCan[count]); // Getting the square root of the pCan value
-	   perfectSQ = (int)sq;
+	   sq = sqrt((double)pCan[count]); //square root of the pCan value
+	   perfectSQ = (int)sq; // convert to int
 	   if (sq == perfectSQ)
 	   {  
 		   //cout << pCan[count] << " Is a perfect square! \n\n";
 		   pyth[pythC] = pCan[count];
-		   pythC++;
+		   pythC++; // Increment counter
 	   }
    }
 
@@ -91,7 +88,7 @@ int main()
    return 0;
    }  //end main
 
-void MakeList(int &t, int r, int p[])    // I hope you can sense the frustration is this code. 
+void MakeList(int &t, int r, int p[])
 {
 	int q = -1; // Initial value of Q needs to be -1 so we can make sure T is bigger
 	bool f = false; // This is the value we change when we found the correct place for the value r
@@ -101,10 +98,10 @@ void MakeList(int &t, int r, int p[])    // I hope you can sense the frustration
 		if (t == -1)
 		{   p[0] = r; // Putting the the R value into the first section of my array
 			t = t + 1;
-			f = true;
+			f = true; // found a value
 		}
 		while (q < t && !f)
-		{   q = q + 1;
+		{   q = q + 1; // Increment q
 			if (r <= p[q])
 			{	f = true;
 				if (r != p[q]) // Making sure the value we want to put into the array is unique
@@ -123,8 +120,8 @@ void MakeList(int &t, int r, int p[])    // I hope you can sense the frustration
 	
 	
 	if (f == false) // R is the biggest number we want to insert
-		{   t = t + 1;
-			p[t] = r;
+		{   t = t + 1; // Increment tail
+			p[t] = r; // Put R into array
 		}
 	
 }
