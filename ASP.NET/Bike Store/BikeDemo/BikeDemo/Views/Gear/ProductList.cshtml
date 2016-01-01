@@ -1,0 +1,56 @@
+﻿@model IEnumerable<BikeDemo.Product>
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Gears</h2>
+
+<div>
+    <h4>Detailed List</h4>
+    <hr />
+    <table class="table">
+        <tr>
+            <th>Name</th>
+            <th>Product Number</th>
+            <th>Colour</th>
+            <th>List Price</th>
+            <th>Size</th>
+            <th>Weight</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            var price = string.Format("{0:C}", item.ListPrice);
+            var color = item.Color == null ? "N/A" : item.Color;
+            var size = item.Size == null ? "N/A" : item.Size;
+            var weight = item.Weight.HasValue ? item.Weight.ToString() : "N/A";
+            <tr id="@item.ProductID">
+                <td>@item.Name</td>
+                <td>@item.ProductNumber</td>
+                <td>@color</td>
+                <td>@price</td>
+                <td>@size</td>
+                <td>@weight</td>
+            </tr>
+        }
+    </table>
+</div>
+
+<script type="text/javascript">
+
+    $('.table tbody tr').click(function () {
+        window.location = "../Details/" + $(this).attr('id');
+    });
+
+    $('.table tbody tr').hover(function () {
+        $(this).css('background-color', '#ccc');
+    }, function () {
+        $(this).css('background-color', '#fff');
+    });
+</script>
+
+<style>
+    .table{
+        cursor:pointer;
+    }
+</style>

@@ -1,0 +1,25 @@
+body {
+    font-family: verdana, sans-serif;
+    font-size: 12px;
+    }
+ 
+  #header {
+    background: #ccc;
+    padding: 20px;
+    }
+ 
+  #sidebar {
+    float: right;
+    width: 30%;
+    background: #999;
+    }
+ 
+  #content {
+    margin-right: 34%;
+    }
+ 
+  #footer {
+    clear: right;
+    background: #eee;
+    padding: 20px;
+    }

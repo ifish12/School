@@ -1,0 +1,31 @@
+﻿@model List<BikeDemo.Models.BikeListModel>
+
+@{
+    ViewBag.Title = "Touring";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Touring Bikes</h2>
+
+<table class="table">
+    <tr>
+
+        <th>
+            Model List
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <h4>@Html.ActionLink(item.ProductModel, "Details", new { id = item.ProductModelID })</h4>
+                @Html.DisplayFor(modelItem => item.Description)
+
+            </td>
+
+        </tr>
+    }
+
+</table>

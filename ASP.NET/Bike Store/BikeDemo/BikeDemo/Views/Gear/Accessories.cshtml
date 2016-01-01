@@ -1,0 +1,30 @@
+﻿@model IEnumerable<BikeDemo.ProductCategory>
+
+@{
+    ViewBag.Title = "Clothing";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Browse our selection of cycling accessories</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Accessories
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+
+                @Html.ActionLink(item.Name, "ProductList", new { id = item.ProductCategoryID })
+
+            </td>
+
+        </tr>
+    }
+
+</table>

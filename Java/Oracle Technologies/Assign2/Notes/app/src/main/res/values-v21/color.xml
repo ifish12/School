@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+    <item name="blue" type="color">#00aeef</item>
+    <item name="purple" type="color">#FFAA66CC</item>
+    <item name="green" type="color">#429449</item>
+    <item name="orange" type="color">#F57D20</item>
+    <item name="orange_ori" type="color">#f7941d</item>
+    <item name="red" type="color">#d03f3f</item>
+    <item name="yellow" type="color">#F38018</item>
+    <item name="clearblue" type="color">#006AFF</item>
+    <item name="darkclearblue" type="color">#0054cc</item>
+    <item name="cleargrey" type="color">#F4F7F5</item>
+    <item name="darkblue" type="color">#FF0099CC</item>
+    <item name="darkpurple" type="color">#FF9933CC</item>
+    <item name="darkgreen" type="color">#FF669900</item>
+    <item name="darkorange" type="color">#FFFF8800</item>
+    <item name="darkred" type="color">#FFCC0000</item>
+    <item name="darkgrey" type="color">#909090</item>
+    <item name="lightgrey" type="color">#EBEBEB</item>
+    <item name="lightblue" type="color">#84d3fb</item>
+    <item name="lightyellow" type="color">#FCFCF4</item>
+    <item name="white" type="color">#FFFFFFFF</item>
+    <item name="black" type="color">#FF000000</item>
+    <item name="grey" type="color">#D3D3D3</item>
+    <item name="dark" type="color">#373737</item>
+    <item name="invisible" type="color">#00000000</item>  
+    <item name="transparentblue" type="color">#4D00aeef</item>
+    <item name="transparentgreen" type="color">#4D429449</item>
+    <item name="transparentorange" type="color">#4Df7941d</item>
+    <item name="transparentred" type="color">#4Dd03f3f</item>
+    <item name="transparentgrey" type="color">#4D909090</item>
+    <item name="maptransparentgreen" type="color">#806ee266</item>
+    <item name="mapgrey" type="color">#C1C1C1</item>
+    <item name="maptransparentgrey" type="color">#16949494</item>
+    <item name="greyline" type="color">#DCDCDC</item>
+    <item name="lightdark" type="color">#9F9F9F</item>
+    <item name="actionbarblue" type="color">#84d3fb</item>
+    <item name="actionbarorange" type="color">#F57D20</item>
+    <item name="actionbarorange_ori" type="color">#f7941d</item>
+    <item name="statusbarorange" type="color">#c46419</item>
+    <!--<item name="greytransparentfilter" type="color">#64909090</item>-->
+    <item name="greytransparentfilter" type="color">#64000000</item>
+    <item name="blacktransparentfilter" type="color">#16000000</item>
+ 
+    <!-- TRANSPARENCY
+    	0% = #00
+		10% = #16
+		20% = #32
+		30% = #48
+		40% = #64
+		50% = #80
+		60% = #96
+		70% = #112
+		80% = #128
+		90% = #144
+     -->
+    
+    <integer-array name="androidcolors">
+        <item>@color/blue</item>
+        <item>@color/purple</item>
+        <item>@color/green</item>
+        <item>@color/orange</item>
+        <item>@color/red</item>
+        <item>@color/yellow</item>
+        <item>@color/clearblue</item>
+        <item>@color/darkblue</item>
+        <item>@color/darkpurple</item>
+        <item>@color/darkgreen</item>
+        <item>@color/darkorange</item>
+        <item>@color/darkred</item>
+        <item>@color/darkgrey</item>
+        <item>@color/lightgrey</item>
+        <item>@color/lightblue</item>
+        <item>@color/lightyellow</item>
+        <item>@color/white</item>
+        <item>@color/black</item>
+        <item>@color/grey</item>
+        <item>@color/dark</item>
+        <item>@color/invisible</item>
+        <item>@color/transparentblue</item>
+        <item>@color/transparentgreen</item>
+        <item>@color/transparentorange</item>
+        <item>@color/transparentred</item>
+        <item>@color/maptransparentgreen</item>
+        <item>@color/mapgrey</item>
+        <item>@color/maptransparentgrey</item>
+        <item>@color/greyline</item>
+        <item>@color/lightdark</item>
+        <item>@color/actionbarorange</item>
+        <item>@color/greytransparentfilter</item>
+    </integer-array>
+ 
+</resources> 

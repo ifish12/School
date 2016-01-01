@@ -1,0 +1,70 @@
+﻿@model BikeDemo.Models.ContactModel
+
+@using CaptchaMvc.HtmlHelpers;
+
+
+@{
+    ViewBag.Title = "Contact";
+}
+
+<h2>Contact</h2>
+
+<address>
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+        <table border="0" cellspacing="1">
+            <tbody>
+                <tr>
+                    <td style="width:130px" valign="top">
+                        First Name:
+                        @*@Html.LabelFor(model => model.FirstName) *@
+                    </td>
+                    <td colspan="2">
+                        @Html.TextBoxFor(model => model.fName, new { size = "35" })
+                      
+                        @Html.ValidationMessageFor(model => model.fName, "", new { @class = "text-danger" })
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width:130px" valign="top">
+                        Last Name:
+                    </td>
+                    <td colspan="2">
+                        @Html.TextBoxFor(model => model.lName, new { size = "35" })
+                        @Html.ValidationMessageFor(model => model.lName, "", new { @class = "text-danger" })
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width:130px" valign="top">
+                        Email:
+                    </td>
+                    <td colspan="2">
+                        @Html.TextBoxFor(model => model.email, new { size = "35", @type = "email" })
+                        @Html.ValidationMessageFor(model => model.email, "", new { @class = "text-danger" })
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width:130px" valign="top">
+                        Comments:
+                    </td>
+                    <td valign="top">
+                        @Html.TextAreaFor(model => model.comments, new { cols = "40", rows = "10" })
+                        @Html.ValidationMessageFor(model => model.comments, "", new { @class = "text-danger" })
+
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top">
+                        &nbsp;
+                    </td>
+                    <td colspan="2">
+                        @Html.Captcha(6) 
+                        <button type="submit">Submit</button>
+                        <button type="submit">Reset</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    }
+</address>

@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "ManagerRecover";
+    string email = ViewBag.email == null ? "" : ViewBag.email;
+}
+
+<h2>ManagerRecover</h2>
+<p>@TempData["message"]</p>
+@using (Html.BeginForm()) { 
+    <table>
+        <tr>
+            <td>
+                <label>Enter Your Email: </label>
+            </td>
+            <td>
+                <input type="email" name="email" required value="@email" />
+            </td>
+        </tr>
+    </table>
+    <input type="submit" value="Recover Account" />
+}
+

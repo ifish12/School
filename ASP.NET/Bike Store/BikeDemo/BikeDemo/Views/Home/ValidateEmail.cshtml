@@ -1,0 +1,10 @@
+﻿
+@{
+    ViewBag.Title = "Validate Email";
+
+    var message = TempData["error"] == null ? "Your email is now validated." : TempData["error"];
+}
+
+<h2>Validate Email</h2>
+
+<p>@message</p>

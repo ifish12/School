@@ -1,0 +1,39 @@
+﻿@model IEnumerable<BikeDemo.ProductCategory>
+
+@{
+    ViewBag.Title = "Models";
+}
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+<table class="table">
+    <tr>
+        <th>
+            Browse our bike models
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @{string[] splitName = item.Name.Split(' ');
+                @Html.ActionLink(item.Name, splitName[0]);      //Get "Road","Touring","Mountain" without Bikes to point
+                    <a href='@Url.Action(splitName[0], "Bikes")'>
+                        <img src="@Url.Content("~/Content/" + splitName[0] + ".png")" alt="IMAGES" />
+                    </a>
+                }
+            </td>
+
+        </tr>
+    }
+
+</table>
+

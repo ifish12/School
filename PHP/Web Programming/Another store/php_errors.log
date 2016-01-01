@@ -1,0 +1,821 @@
+[30-Sep-2015 19:50:18 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:50:18 UTC] PHP Stack trace:
+[30-Sep-2015 19:50:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:50:18 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:50:18 UTC] PHP Stack trace:
+[30-Sep-2015 19:50:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:50:19 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:50:19 UTC] PHP Stack trace:
+[30-Sep-2015 19:50:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:50:19 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:50:19 UTC] PHP Stack trace:
+[30-Sep-2015 19:50:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:51:33 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:51:33 UTC] PHP Stack trace:
+[30-Sep-2015 19:51:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:51:33 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:51:33 UTC] PHP Stack trace:
+[30-Sep-2015 19:51:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:51:33 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:51:33 UTC] PHP Stack trace:
+[30-Sep-2015 19:51:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:51:33 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:51:33 UTC] PHP Stack trace:
+[30-Sep-2015 19:51:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:52:07 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:52:07 UTC] PHP Stack trace:
+[30-Sep-2015 19:52:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:52:07 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:52:07 UTC] PHP Stack trace:
+[30-Sep-2015 19:52:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:52:07 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:52:07 UTC] PHP Stack trace:
+[30-Sep-2015 19:52:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:52:07 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:52:07 UTC] PHP Stack trace:
+[30-Sep-2015 19:52:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:52:51 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:52:51 UTC] PHP Stack trace:
+[30-Sep-2015 19:52:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:52:51 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:52:51 UTC] PHP Stack trace:
+[30-Sep-2015 19:52:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:52:51 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:52:51 UTC] PHP Stack trace:
+[30-Sep-2015 19:52:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:52:51 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:52:51 UTC] PHP Stack trace:
+[30-Sep-2015 19:52:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:56:33 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:56:33 UTC] PHP Stack trace:
+[30-Sep-2015 19:56:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:56:33 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:56:33 UTC] PHP Stack trace:
+[30-Sep-2015 19:56:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:56:33 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:56:33 UTC] PHP Stack trace:
+[30-Sep-2015 19:56:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:56:33 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:56:33 UTC] PHP Stack trace:
+[30-Sep-2015 19:56:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:57:47 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:57:47 UTC] PHP Stack trace:
+[30-Sep-2015 19:57:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:57:47 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:57:47 UTC] PHP Stack trace:
+[30-Sep-2015 19:57:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:57:47 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:57:47 UTC] PHP Stack trace:
+[30-Sep-2015 19:57:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 19:57:47 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 19:57:47 UTC] PHP Stack trace:
+[30-Sep-2015 19:57:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:01:54 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:01:54 UTC] PHP Stack trace:
+[30-Sep-2015 20:01:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:01:54 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:01:54 UTC] PHP Stack trace:
+[30-Sep-2015 20:01:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:01:54 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:01:54 UTC] PHP Stack trace:
+[30-Sep-2015 20:01:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:01:54 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:01:54 UTC] PHP Stack trace:
+[30-Sep-2015 20:01:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:04:46 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:04:46 UTC] PHP Stack trace:
+[30-Sep-2015 20:04:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:04:46 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:04:46 UTC] PHP Stack trace:
+[30-Sep-2015 20:04:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:04:46 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:04:46 UTC] PHP Stack trace:
+[30-Sep-2015 20:04:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:04:46 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:04:46 UTC] PHP Stack trace:
+[30-Sep-2015 20:04:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:04:56 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:04:56 UTC] PHP Stack trace:
+[30-Sep-2015 20:04:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:04:56 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:04:56 UTC] PHP Stack trace:
+[30-Sep-2015 20:04:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:04:56 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:04:56 UTC] PHP Stack trace:
+[30-Sep-2015 20:04:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:04:56 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:04:56 UTC] PHP Stack trace:
+[30-Sep-2015 20:04:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:05:27 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:05:27 UTC] PHP Stack trace:
+[30-Sep-2015 20:05:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:05:27 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:05:27 UTC] PHP Stack trace:
+[30-Sep-2015 20:05:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:05:27 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:05:27 UTC] PHP Stack trace:
+[30-Sep-2015 20:05:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:05:27 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:05:27 UTC] PHP Stack trace:
+[30-Sep-2015 20:05:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:05:31 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:05:31 UTC] PHP Stack trace:
+[30-Sep-2015 20:05:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:05:31 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:05:31 UTC] PHP Stack trace:
+[30-Sep-2015 20:05:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:05:31 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:05:31 UTC] PHP Stack trace:
+[30-Sep-2015 20:05:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:05:31 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:05:31 UTC] PHP Stack trace:
+[30-Sep-2015 20:05:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:05:42 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:05:42 UTC] PHP Stack trace:
+[30-Sep-2015 20:05:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:05:42 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:05:42 UTC] PHP Stack trace:
+[30-Sep-2015 20:05:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:05:42 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:05:42 UTC] PHP Stack trace:
+[30-Sep-2015 20:05:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:05:42 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:05:42 UTC] PHP Stack trace:
+[30-Sep-2015 20:05:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:06:42 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:06:42 UTC] PHP Stack trace:
+[30-Sep-2015 20:06:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:06:42 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:06:42 UTC] PHP Stack trace:
+[30-Sep-2015 20:06:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:06:42 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:06:42 UTC] PHP Stack trace:
+[30-Sep-2015 20:06:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:06:42 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:06:42 UTC] PHP Stack trace:
+[30-Sep-2015 20:06:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:07:20 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:07:20 UTC] PHP Stack trace:
+[30-Sep-2015 20:07:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:07:20 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:07:20 UTC] PHP Stack trace:
+[30-Sep-2015 20:07:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:07:20 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:07:20 UTC] PHP Stack trace:
+[30-Sep-2015 20:07:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:07:20 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:07:20 UTC] PHP Stack trace:
+[30-Sep-2015 20:07:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:09:57 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:09:57 UTC] PHP Stack trace:
+[30-Sep-2015 20:09:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:09:57 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:09:57 UTC] PHP Stack trace:
+[30-Sep-2015 20:09:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:09:57 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:09:57 UTC] PHP Stack trace:
+[30-Sep-2015 20:09:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:09:57 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:09:57 UTC] PHP Stack trace:
+[30-Sep-2015 20:09:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:10:35 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:10:35 UTC] PHP Stack trace:
+[30-Sep-2015 20:10:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:10:35 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:10:35 UTC] PHP Stack trace:
+[30-Sep-2015 20:10:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:10:35 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:10:35 UTC] PHP Stack trace:
+[30-Sep-2015 20:10:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:10:35 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:10:35 UTC] PHP Stack trace:
+[30-Sep-2015 20:10:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:10:48 UTC] PHP Warning:  require(/db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:10:48 UTC] PHP Stack trace:
+[30-Sep-2015 20:10:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:10:48 UTC] PHP Fatal error:  require(): Failed opening required '/db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:10:48 UTC] PHP Stack trace:
+[30-Sep-2015 20:10:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:10:49 UTC] PHP Warning:  require(/db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:10:49 UTC] PHP Stack trace:
+[30-Sep-2015 20:10:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:10:49 UTC] PHP Fatal error:  require(): Failed opening required '/db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:10:49 UTC] PHP Stack trace:
+[30-Sep-2015 20:10:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:11:14 UTC] PHP Warning:  require(~/db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:11:14 UTC] PHP Stack trace:
+[30-Sep-2015 20:11:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:11:14 UTC] PHP Fatal error:  require(): Failed opening required '~/db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:11:14 UTC] PHP Stack trace:
+[30-Sep-2015 20:11:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:11:14 UTC] PHP Warning:  require(~/db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:11:14 UTC] PHP Stack trace:
+[30-Sep-2015 20:11:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 20:11:14 UTC] PHP Fatal error:  require(): Failed opening required '~/db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/validateuser.php on line 2
+[30-Sep-2015 20:11:14 UTC] PHP Stack trace:
+[30-Sep-2015 20:11:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[30-Sep-2015 21:55:06 UTC] PHP Warning:  require(db/db_functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/createuser.php on line 3
+[30-Sep-2015 21:55:06 UTC] PHP Stack trace:
+[30-Sep-2015 21:55:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[30-Sep-2015 21:55:06 UTC] PHP Fatal error:  require(): Failed opening required 'db/db_functions.php' (include_path='.:/php/includes') in /home/ubuntu/workspace/php/createuser.php on line 3
+[30-Sep-2015 21:55:06 UTC] PHP Stack trace:
+[30-Sep-2015 21:55:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[30-Sep-2015 21:55:21 UTC] PHP Warning:  strpos() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/php/createuser.php on line 17
+[30-Sep-2015 21:55:21 UTC] PHP Stack trace:
+[30-Sep-2015 21:55:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[30-Sep-2015 21:55:21 UTC] PHP   2. strpos() /home/ubuntu/workspace/php/createuser.php:17
+[30-Sep-2015 21:55:21 UTC] PHP Warning:  strpos() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/php/createuser.php on line 21
+[30-Sep-2015 21:55:21 UTC] PHP Stack trace:
+[30-Sep-2015 21:55:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[30-Sep-2015 21:55:21 UTC] PHP   2. strpos() /home/ubuntu/workspace/php/createuser.php:21
+[30-Sep-2015 21:55:21 UTC] PHP Warning:  strpos() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/php/createuser.php on line 25
+[30-Sep-2015 21:55:21 UTC] PHP Stack trace:
+[30-Sep-2015 21:55:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[30-Sep-2015 21:55:21 UTC] PHP   2. strpos() /home/ubuntu/workspace/php/createuser.php:25
+[30-Sep-2015 21:55:21 UTC] PHP Warning:  strpos() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/php/createuser.php on line 29
+[30-Sep-2015 21:55:21 UTC] PHP Stack trace:
+[30-Sep-2015 21:55:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[30-Sep-2015 21:55:21 UTC] PHP   2. strpos() /home/ubuntu/workspace/php/createuser.php:29
+[30-Sep-2015 21:55:21 UTC] PHP Warning:  strpos() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/php/createuser.php on line 33
+[30-Sep-2015 21:55:21 UTC] PHP Stack trace:
+[30-Sep-2015 21:55:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[30-Sep-2015 21:55:21 UTC] PHP   2. strpos() /home/ubuntu/workspace/php/createuser.php:33
+[30-Sep-2015 23:28:41 UTC] PHP Fatal error:  Call to undefined function new_email() in /home/ubuntu/workspace/php/createuser.php on line 58
+[30-Sep-2015 23:28:41 UTC] PHP Stack trace:
+[30-Sep-2015 23:28:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[30-Sep-2015 23:28:51 UTC] PHP Fatal error:  Call to undefined function new_user() in /home/ubuntu/workspace/php/createuser.php on line 58
+[30-Sep-2015 23:28:51 UTC] PHP Stack trace:
+[30-Sep-2015 23:28:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[30-Sep-2015 23:51:33 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/ubuntu/workspace/php/createuser.php on line 25
+[04-Oct-2015 19:59:35 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 50
+[04-Oct-2015 19:59:35 UTC] PHP Stack trace:
+[04-Oct-2015 19:59:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 19:59:35 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:77
+[04-Oct-2015 19:59:35 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 50
+[04-Oct-2015 19:59:35 UTC] PHP Stack trace:
+[04-Oct-2015 19:59:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 19:59:35 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:77
+[04-Oct-2015 19:59:58 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 50
+[04-Oct-2015 19:59:59 UTC] PHP Stack trace:
+[04-Oct-2015 19:59:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 19:59:59 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:77
+[04-Oct-2015 19:59:59 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 50
+[04-Oct-2015 19:59:59 UTC] PHP Stack trace:
+[04-Oct-2015 19:59:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 19:59:59 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:77
+[04-Oct-2015 20:02:15 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 50
+[04-Oct-2015 20:02:15 UTC] PHP Stack trace:
+[04-Oct-2015 20:02:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:02:15 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:77
+[04-Oct-2015 20:02:15 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 50
+[04-Oct-2015 20:02:15 UTC] PHP Stack trace:
+[04-Oct-2015 20:02:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:02:15 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:77
+[04-Oct-2015 20:03:19 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 50
+[04-Oct-2015 20:03:19 UTC] PHP Stack trace:
+[04-Oct-2015 20:03:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:03:19 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:77
+[04-Oct-2015 20:03:19 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 50
+[04-Oct-2015 20:03:19 UTC] PHP Stack trace:
+[04-Oct-2015 20:03:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:03:19 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:77
+[04-Oct-2015 20:03:46 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:03:46 UTC] PHP Stack trace:
+[04-Oct-2015 20:03:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:03:46 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:77
+[04-Oct-2015 20:03:46 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:03:46 UTC] PHP Stack trace:
+[04-Oct-2015 20:03:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:03:46 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:77
+[04-Oct-2015 20:04:01 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:04:01 UTC] PHP Stack trace:
+[04-Oct-2015 20:04:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:04:01 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:77
+[04-Oct-2015 20:04:01 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:04:01 UTC] PHP Stack trace:
+[04-Oct-2015 20:04:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:04:01 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:77
+[04-Oct-2015 20:04:53 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:04:53 UTC] PHP Stack trace:
+[04-Oct-2015 20:04:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:04:53 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:78
+[04-Oct-2015 20:04:53 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:04:53 UTC] PHP Stack trace:
+[04-Oct-2015 20:04:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:04:53 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:78
+[04-Oct-2015 20:05:07 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:05:07 UTC] PHP Stack trace:
+[04-Oct-2015 20:05:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:05:07 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:78
+[04-Oct-2015 20:05:07 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:05:07 UTC] PHP Stack trace:
+[04-Oct-2015 20:05:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:05:07 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:78
+[04-Oct-2015 20:05:19 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:05:19 UTC] PHP Stack trace:
+[04-Oct-2015 20:05:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:05:19 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:78
+[04-Oct-2015 20:05:19 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:05:19 UTC] PHP Stack trace:
+[04-Oct-2015 20:05:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:05:19 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:78
+[04-Oct-2015 20:05:33 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:05:33 UTC] PHP Stack trace:
+[04-Oct-2015 20:05:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:05:33 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:79
+[04-Oct-2015 20:05:33 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:05:33 UTC] PHP Stack trace:
+[04-Oct-2015 20:05:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:05:33 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:79
+[04-Oct-2015 20:05:42 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:05:42 UTC] PHP Stack trace:
+[04-Oct-2015 20:05:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:05:42 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:78
+[04-Oct-2015 20:05:42 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:05:42 UTC] PHP Stack trace:
+[04-Oct-2015 20:05:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:05:42 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:78
+[04-Oct-2015 20:05:54 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:05:54 UTC] PHP Stack trace:
+[04-Oct-2015 20:05:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:05:54 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:79
+[04-Oct-2015 20:05:54 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:05:54 UTC] PHP Stack trace:
+[04-Oct-2015 20:05:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:05:54 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:79
+[04-Oct-2015 20:06:23 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:06:23 UTC] PHP Stack trace:
+[04-Oct-2015 20:06:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:06:23 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:78
+[04-Oct-2015 20:06:23 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:06:23 UTC] PHP Stack trace:
+[04-Oct-2015 20:06:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:06:23 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:78
+[04-Oct-2015 20:07:53 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:07:53 UTC] PHP Stack trace:
+[04-Oct-2015 20:07:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:07:53 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:78
+[04-Oct-2015 20:07:53 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:07:53 UTC] PHP Stack trace:
+[04-Oct-2015 20:07:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:07:53 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:78
+[04-Oct-2015 20:08:46 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:08:46 UTC] PHP Stack trace:
+[04-Oct-2015 20:08:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:08:46 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:80
+[04-Oct-2015 20:08:46 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:08:46 UTC] PHP Stack trace:
+[04-Oct-2015 20:08:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:08:46 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:80
+[04-Oct-2015 20:09:33 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:09:33 UTC] PHP Stack trace:
+[04-Oct-2015 20:09:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:09:33 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:80
+[04-Oct-2015 20:09:33 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 53
+[04-Oct-2015 20:09:33 UTC] PHP Stack trace:
+[04-Oct-2015 20:09:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[04-Oct-2015 20:09:33 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:80
+[04-Oct-2015 20:11:10 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 23
+[04-Oct-2015 20:11:10 UTC] PHP Stack trace:
+[04-Oct-2015 20:11:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[04-Oct-2015 20:11:10 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:24
+[04-Oct-2015 20:11:10 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 23
+[04-Oct-2015 20:11:10 UTC] PHP Stack trace:
+[04-Oct-2015 20:11:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[04-Oct-2015 20:11:10 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:24
+[04-Oct-2015 20:11:10 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 23
+[04-Oct-2015 20:11:10 UTC] PHP Stack trace:
+[04-Oct-2015 20:11:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[04-Oct-2015 20:11:10 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:24
+[04-Oct-2015 20:11:31 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 23
+[04-Oct-2015 20:11:31 UTC] PHP Stack trace:
+[04-Oct-2015 20:11:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[04-Oct-2015 20:11:31 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:24
+[04-Oct-2015 20:11:31 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 23
+[04-Oct-2015 20:11:31 UTC] PHP Stack trace:
+[04-Oct-2015 20:11:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[04-Oct-2015 20:11:31 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:24
+[04-Oct-2015 20:11:31 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/db/db_functions.php on line 23
+[04-Oct-2015 20:11:31 UTC] PHP Stack trace:
+[04-Oct-2015 20:11:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[04-Oct-2015 20:11:31 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:24
+[04-Oct-2015 20:13:22 UTC] PHP Warning:  error_log(errors/error.log): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 26
+[04-Oct-2015 20:13:22 UTC] PHP Stack trace:
+[04-Oct-2015 20:13:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[04-Oct-2015 20:13:22 UTC] PHP   2. error_log() /home/ubuntu/workspace/php/validateuser.php:26
+[04-Oct-2015 20:13:22 UTC] PHP Warning:  error_log(errors/error.log): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 26
+[04-Oct-2015 20:13:22 UTC] PHP Stack trace:
+[04-Oct-2015 20:13:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[04-Oct-2015 20:13:22 UTC] PHP   2. error_log() /home/ubuntu/workspace/php/validateuser.php:26
+[04-Oct-2015 20:13:22 UTC] PHP Warning:  error_log(errors/error.log): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 26
+[04-Oct-2015 20:13:22 UTC] PHP Stack trace:
+[04-Oct-2015 20:13:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[04-Oct-2015 20:13:22 UTC] PHP   2. error_log() /home/ubuntu/workspace/php/validateuser.php:26
+[04-Oct-2015 20:13:32 UTC] PHP Warning:  error_log(errors/error.log): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 26
+[04-Oct-2015 20:13:32 UTC] PHP Stack trace:
+[04-Oct-2015 20:13:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[04-Oct-2015 20:13:32 UTC] PHP   2. error_log() /home/ubuntu/workspace/php/validateuser.php:26
+[04-Oct-2015 20:13:32 UTC] PHP Warning:  error_log(errors/error.log): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 26
+[04-Oct-2015 20:13:32 UTC] PHP Stack trace:
+[04-Oct-2015 20:13:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[04-Oct-2015 20:13:32 UTC] PHP   2. error_log() /home/ubuntu/workspace/php/validateuser.php:26
+[04-Oct-2015 20:13:33 UTC] PHP Warning:  error_log(errors/error.log): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/validateuser.php on line 26
+[04-Oct-2015 20:13:33 UTC] PHP Stack trace:
+[04-Oct-2015 20:13:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[04-Oct-2015 20:13:33 UTC] PHP   2. error_log() /home/ubuntu/workspace/php/validateuser.php:26
+[04-Oct-2015 20:16:46 UTC] PHP Warning:  error_log(../errors/error.log): failed to open stream: Is a directory in /home/ubuntu/workspace/php/validateuser.php on line 26
+[04-Oct-2015 20:16:46 UTC] PHP Stack trace:
+[04-Oct-2015 20:16:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[04-Oct-2015 20:16:46 UTC] PHP   2. error_log() /home/ubuntu/workspace/php/validateuser.php:26
+[04-Oct-2015 20:16:46 UTC] PHP Warning:  error_log(../errors/error.log): failed to open stream: Is a directory in /home/ubuntu/workspace/php/validateuser.php on line 26
+[04-Oct-2015 20:16:46 UTC] PHP Stack trace:
+[04-Oct-2015 20:16:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[04-Oct-2015 20:16:46 UTC] PHP   2. error_log() /home/ubuntu/workspace/php/validateuser.php:26
+[04-Oct-2015 20:16:46 UTC] PHP Warning:  error_log(../errors/error.log): failed to open stream: Is a directory in /home/ubuntu/workspace/php/validateuser.php on line 26
+[04-Oct-2015 20:16:46 UTC] PHP Stack trace:
+[04-Oct-2015 20:16:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[04-Oct-2015 20:16:46 UTC] PHP   2. error_log() /home/ubuntu/workspace/php/validateuser.php:26
+[04-Oct-2015 20:16:51 UTC] PHP Warning:  error_log(../errors/error.log): failed to open stream: Is a directory in /home/ubuntu/workspace/php/validateuser.php on line 26
+[04-Oct-2015 20:16:51 UTC] PHP Stack trace:
+[04-Oct-2015 20:16:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[04-Oct-2015 20:16:51 UTC] PHP   2. error_log() /home/ubuntu/workspace/php/validateuser.php:26
+[04-Oct-2015 20:16:51 UTC] PHP Warning:  error_log(../errors/error.log): failed to open stream: Is a directory in /home/ubuntu/workspace/php/validateuser.php on line 26
+[04-Oct-2015 20:16:51 UTC] PHP Stack trace:
+[04-Oct-2015 20:16:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[04-Oct-2015 20:16:51 UTC] PHP   2. error_log() /home/ubuntu/workspace/php/validateuser.php:26
+[04-Oct-2015 20:16:51 UTC] PHP Warning:  error_log(../errors/error.log): failed to open stream: Is a directory in /home/ubuntu/workspace/php/validateuser.php on line 26
+[04-Oct-2015 20:16:51 UTC] PHP Stack trace:
+[04-Oct-2015 20:16:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[04-Oct-2015 20:16:51 UTC] PHP   2. error_log() /home/ubuntu/workspace/php/validateuser.php:26
+[04-Oct-2015 20:17:03 UTC] PHP Warning:  error_log(../errors/error.log): failed to open stream: Is a directory in /home/ubuntu/workspace/php/validateuser.php on line 26
+[04-Oct-2015 20:17:03 UTC] PHP Stack trace:
+[04-Oct-2015 20:17:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[04-Oct-2015 20:17:03 UTC] PHP   2. error_log() /home/ubuntu/workspace/php/validateuser.php:26
+[04-Oct-2015 20:17:03 UTC] PHP Warning:  error_log(../errors/error.log): failed to open stream: Is a directory in /home/ubuntu/workspace/php/validateuser.php on line 26
+[04-Oct-2015 20:17:03 UTC] PHP Stack trace:
+[04-Oct-2015 20:17:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[04-Oct-2015 20:17:03 UTC] PHP   2. error_log() /home/ubuntu/workspace/php/validateuser.php:26
+[04-Oct-2015 20:17:03 UTC] PHP Warning:  error_log(../errors/error.log): failed to open stream: Is a directory in /home/ubuntu/workspace/php/validateuser.php on line 26
+[04-Oct-2015 20:17:03 UTC] PHP Stack trace:
+[04-Oct-2015 20:17:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[04-Oct-2015 20:17:03 UTC] PHP   2. error_log() /home/ubuntu/workspace/php/validateuser.php:26
+[04-Oct-2015 20:21:58 UTC] PHP Warning:  include(smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/php/login.php on line 2
+[04-Oct-2015 20:21:58 UTC] PHP Stack trace:
+[04-Oct-2015 20:21:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[04-Oct-2015 20:21:58 UTC] PHP Warning:  include(): Failed opening 'smarty/libs/Smarty.class.php' for inclusion (include_path='.:/php/includes') in /home/ubuntu/workspace/php/login.php on line 2
+[04-Oct-2015 20:21:58 UTC] PHP Stack trace:
+[04-Oct-2015 20:21:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[04-Oct-2015 20:21:58 UTC] PHP Fatal error:  Class 'Smarty' not found in /home/ubuntu/workspace/php/login.php on line 4
+[04-Oct-2015 20:21:58 UTC] PHP Stack trace:
+[04-Oct-2015 20:21:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/login.php:0
+[04-Oct-2015 20:22:21 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'login.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/libs/sysplugins/smarty_internal_templatebase.php on line 129
+[05-Oct-2015 21:53:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 21:53:30 UTC] PHP Stack trace:
+[05-Oct-2015 21:53:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 21:53:30 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[05-Oct-2015 21:53:30 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 21:53:30 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 21:53:33 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 21:53:33 UTC] PHP Stack trace:
+[05-Oct-2015 21:53:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 21:53:33 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[05-Oct-2015 21:53:33 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 21:53:33 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 21:54:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 21:54:20 UTC] PHP Stack trace:
+[05-Oct-2015 21:54:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 21:54:20 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[05-Oct-2015 21:54:20 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 21:54:20 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 21:54:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 21:54:20 UTC] PHP Stack trace:
+[05-Oct-2015 21:54:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 21:54:20 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[05-Oct-2015 21:54:20 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 21:54:20 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 21:54:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 21:54:26 UTC] PHP Stack trace:
+[05-Oct-2015 21:54:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 21:54:26 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[05-Oct-2015 21:54:26 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 21:54:26 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 21:54:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 21:54:26 UTC] PHP Stack trace:
+[05-Oct-2015 21:54:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 21:54:26 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[05-Oct-2015 21:54:26 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 21:54:26 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 21:54:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 21:54:26 UTC] PHP Stack trace:
+[05-Oct-2015 21:54:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 21:54:26 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[05-Oct-2015 21:54:26 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 21:54:26 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 21:54:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 21:54:27 UTC] PHP Stack trace:
+[05-Oct-2015 21:54:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 21:54:27 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[05-Oct-2015 21:54:27 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 21:54:27 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 21:54:52 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 21:54:52 UTC] PHP Stack trace:
+[05-Oct-2015 21:54:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 21:54:52 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[05-Oct-2015 21:54:52 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 21:54:52 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 21:55:01 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 21:55:01 UTC] PHP Stack trace:
+[05-Oct-2015 21:55:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 21:55:01 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[05-Oct-2015 21:55:01 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 21:55:01 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 21:55:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 21:55:11 UTC] PHP Stack trace:
+[05-Oct-2015 21:55:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 21:55:11 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[05-Oct-2015 21:55:11 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 21:55:11 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 21:55:57 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 21:55:57 UTC] PHP Stack trace:
+[05-Oct-2015 21:55:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 21:55:57 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[05-Oct-2015 21:55:57 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 21:55:57 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 21:56:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 21:56:27 UTC] PHP Stack trace:
+[05-Oct-2015 21:56:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 21:56:27 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[05-Oct-2015 21:56:27 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 21:56:27 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 22:01:01 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 22:01:01 UTC] PHP Stack trace:
+[05-Oct-2015 22:01:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 22:01:01 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:26
+[05-Oct-2015 22:01:01 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 22:01:01 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 22:01:51 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 22:01:51 UTC] PHP Stack trace:
+[05-Oct-2015 22:01:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 22:01:51 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:26
+[05-Oct-2015 22:01:51 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 22:01:51 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 22:01:52 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 22:01:52 UTC] PHP Stack trace:
+[05-Oct-2015 22:01:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 22:01:52 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:26
+[05-Oct-2015 22:01:52 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 22:01:52 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 22:01:53 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 22:01:53 UTC] PHP Stack trace:
+[05-Oct-2015 22:01:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 22:01:53 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:26
+[05-Oct-2015 22:01:53 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 22:01:53 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 22:01:53 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 22:01:53 UTC] PHP Stack trace:
+[05-Oct-2015 22:01:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 22:01:53 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:26
+[05-Oct-2015 22:01:53 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 22:01:53 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 22:02:28 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 22:02:28 UTC] PHP Stack trace:
+[05-Oct-2015 22:02:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 22:02:28 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:26
+[05-Oct-2015 22:02:28 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 22:02:28 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 22:04:02 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 22:04:02 UTC] PHP Stack trace:
+[05-Oct-2015 22:04:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 22:04:02 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:26
+[05-Oct-2015 22:04:02 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 22:04:02 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 22:05:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 22:05:55 UTC] PHP Stack trace:
+[05-Oct-2015 22:05:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 22:05:55 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:26
+[05-Oct-2015 22:05:55 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 22:05:55 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 22:08:38 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 22:08:38 UTC] PHP Stack trace:
+[05-Oct-2015 22:08:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 22:08:38 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[05-Oct-2015 22:08:38 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 22:08:38 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 22:09:01 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/ubuntu/workspace/php/validateuser.php on line 28
+[05-Oct-2015 23:54:20 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/ubuntu/workspace/php/validateuser.php on line 28
+[05-Oct-2015 23:54:27 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/ubuntu/workspace/php/validateuser.php on line 28
+[05-Oct-2015 23:54:36 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/ubuntu/workspace/php/validateuser.php on line 28
+[05-Oct-2015 23:54:36 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/ubuntu/workspace/php/validateuser.php on line 28
+[05-Oct-2015 23:54:36 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/ubuntu/workspace/php/validateuser.php on line 28
+[05-Oct-2015 23:54:36 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/ubuntu/workspace/php/validateuser.php on line 28
+[05-Oct-2015 23:54:36 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/ubuntu/workspace/php/validateuser.php on line 28
+[05-Oct-2015 23:54:37 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/ubuntu/workspace/php/validateuser.php on line 28
+[05-Oct-2015 23:54:37 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/ubuntu/workspace/php/validateuser.php on line 28
+[05-Oct-2015 23:54:37 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/ubuntu/workspace/php/validateuser.php on line 28
+[05-Oct-2015 23:54:37 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/ubuntu/workspace/php/validateuser.php on line 28
+[05-Oct-2015 23:55:11 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/ubuntu/workspace/php/validateuser.php on line 28
+[05-Oct-2015 23:55:29 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/ubuntu/workspace/php/validateuser.php on line 28
+[05-Oct-2015 23:56:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 23:56:26 UTC] PHP Stack trace:
+[05-Oct-2015 23:56:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 23:56:26 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[05-Oct-2015 23:56:26 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 23:56:26 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 23:57:19 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 23:57:19 UTC] PHP Stack trace:
+[05-Oct-2015 23:57:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 23:57:19 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[05-Oct-2015 23:57:19 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 23:57:19 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 23:57:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 23:57:50 UTC] PHP Stack trace:
+[05-Oct-2015 23:57:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 23:57:50 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[05-Oct-2015 23:57:50 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 23:57:50 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 23:58:20 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 23:58:20 UTC] PHP Stack trace:
+[05-Oct-2015 23:58:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 23:58:20 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[05-Oct-2015 23:58:20 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 23:58:20 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 23:58:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 23:58:31 UTC] PHP Stack trace:
+[05-Oct-2015 23:58:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 23:58:31 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[05-Oct-2015 23:58:31 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 23:58:31 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 23:59:17 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 23:59:17 UTC] PHP Stack trace:
+[05-Oct-2015 23:59:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 23:59:17 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[05-Oct-2015 23:59:17 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 23:59:17 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[05-Oct-2015 23:59:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[05-Oct-2015 23:59:42 UTC] PHP Stack trace:
+[05-Oct-2015 23:59:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[05-Oct-2015 23:59:42 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[05-Oct-2015 23:59:42 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[05-Oct-2015 23:59:42 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:00:12 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:00:12 UTC] PHP Stack trace:
+[06-Oct-2015 00:00:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 00:00:12 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 00:00:12 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 00:00:12 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:01:00 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:01:00 UTC] PHP Stack trace:
+[06-Oct-2015 00:01:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 00:01:00 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 00:01:00 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 00:01:00 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:01:35 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:01:35 UTC] PHP Stack trace:
+[06-Oct-2015 00:01:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 00:01:35 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 00:01:35 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 00:01:35 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:02:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:02:04 UTC] PHP Stack trace:
+[06-Oct-2015 00:02:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 00:02:04 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 00:02:04 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 00:02:04 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:02:07 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:02:07 UTC] PHP Stack trace:
+[06-Oct-2015 00:02:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 00:02:07 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 00:02:07 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 00:02:07 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:02:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:02:29 UTC] PHP Stack trace:
+[06-Oct-2015 00:02:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 00:02:29 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 00:02:29 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 00:02:29 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:04:15 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:04:15 UTC] PHP Stack trace:
+[06-Oct-2015 00:04:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/createuser.php:0
+[06-Oct-2015 00:04:15 UTC] PHP   2. create_user() /home/ubuntu/workspace/php/createuser.php:84
+[06-Oct-2015 00:04:15 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:72
+[06-Oct-2015 00:04:15 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:05:47 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:05:47 UTC] PHP Stack trace:
+[06-Oct-2015 00:05:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 00:05:47 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 00:05:47 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 00:05:47 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:06:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:06:27 UTC] PHP Stack trace:
+[06-Oct-2015 00:06:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 00:06:27 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 00:06:27 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 00:06:27 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:06:53 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:06:53 UTC] PHP Stack trace:
+[06-Oct-2015 00:06:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 00:06:53 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 00:06:53 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 00:06:53 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:07:10 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:07:10 UTC] PHP Stack trace:
+[06-Oct-2015 00:07:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 00:07:10 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 00:07:10 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 00:07:10 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:07:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:07:27 UTC] PHP Stack trace:
+[06-Oct-2015 00:07:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 00:07:27 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 00:07:27 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 00:07:27 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:07:41 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:07:41 UTC] PHP Stack trace:
+[06-Oct-2015 00:07:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 00:07:41 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 00:07:41 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 00:07:41 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:07:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:07:42 UTC] PHP Stack trace:
+[06-Oct-2015 00:07:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 00:07:42 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 00:07:42 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 00:07:42 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:09:45 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:09:45 UTC] PHP Stack trace:
+[06-Oct-2015 00:09:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 00:09:45 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 00:09:45 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 00:09:45 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:11:22 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:11:22 UTC] PHP Stack trace:
+[06-Oct-2015 00:11:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 00:11:22 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 00:11:22 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 00:11:22 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:11:34 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:11:34 UTC] PHP Stack trace:
+[06-Oct-2015 00:11:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 00:11:34 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 00:11:34 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 00:11:34 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:11:44 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:11:44 UTC] PHP Stack trace:
+[06-Oct-2015 00:11:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 00:11:44 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 00:11:44 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 00:11:44 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:13:01 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:13:01 UTC] PHP Stack trace:
+[06-Oct-2015 00:13:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 00:13:01 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 00:13:01 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 00:13:01 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:14:25 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:14:25 UTC] PHP Stack trace:
+[06-Oct-2015 00:14:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 00:14:25 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 00:14:25 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 00:14:25 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:14:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:14:26 UTC] PHP Stack trace:
+[06-Oct-2015 00:14:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 00:14:26 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 00:14:26 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 00:14:26 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 00:14:38 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 00:14:38 UTC] PHP Stack trace:
+[06-Oct-2015 00:14:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 00:14:38 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 00:14:38 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 00:14:38 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 17:20:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 17:20:27 UTC] PHP Stack trace:
+[06-Oct-2015 17:20:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 17:20:27 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 17:20:27 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 17:20:27 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 17:21:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 17:21:14 UTC] PHP Stack trace:
+[06-Oct-2015 17:21:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 17:21:14 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 17:21:14 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:33
+[06-Oct-2015 17:21:14 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[06-Oct-2015 17:36:52 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'superdogy92'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/db_functions.php on line 18
+[06-Oct-2015 17:36:52 UTC] PHP Stack trace:
+[06-Oct-2015 17:36:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/php/validateuser.php:0
+[06-Oct-2015 17:36:52 UTC] PHP   2. validate_user() /home/ubuntu/workspace/php/validateuser.php:25
+[06-Oct-2015 17:36:52 UTC] PHP   3. get_db_connection() /home/ubuntu/workspace/db/db_functions.php:35
+[06-Oct-2015 17:36:52 UTC] PHP   4. mysqli->mysqli() /home/ubuntu/workspace/db/db_functions.php:18
+[02-Nov-2015 21:09:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/tests/getproducts_json_tests.php on line 69
+[02-Nov-2015 21:10:02 UTC] PHP Fatal error:  Call to undefined function test_authenticate_user() in /home/ubuntu/workspace/tests/getproducts_json_tests.php on line 10
+[02-Nov-2015 21:10:02 UTC] PHP Stack trace:
+[02-Nov-2015 21:10:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/tests/getproducts_json_tests.php:0
+[02-Nov-2015 21:10:20 UTC] PHP Warning:  file_get_contents(https://store-ifish12.c9.io/php/getproduct.php): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/ubuntu/workspace/tests/getproducts_json_tests.php on line 53
+[02-Nov-2015 21:10:20 UTC] PHP Stack trace:
+[02-Nov-2015 21:10:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/tests/getproducts_json_tests.php:0
+[02-Nov-2015 21:10:20 UTC] PHP   2. test_get_products() /home/ubuntu/workspace/tests/getproducts_json_tests.php:10
+[02-Nov-2015 21:10:20 UTC] PHP   3. authenticate_user_post() /home/ubuntu/workspace/tests/getproducts_json_tests.php:17
+[02-Nov-2015 21:10:20 UTC] PHP   4. file_get_contents() /home/ubuntu/workspace/tests/getproducts_json_tests.php:53

@@ -1,0 +1,21 @@
+<movies>
+    <movie id="starwars" title="Star Wars: Episode IV - A New Hope" year="1977" runtime="121">
+        <genre>Action</genre>
+        <genre>Adventure</genre>
+        <genre>Fantasy</genre>
+        <director id="lucas" name="George Lucas"/>
+        <plot>
+            <p>
+                Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a
+                wookiee and two droids to save the universe from the Empire's
+                world-destroying battle-station, while also attempting to rescue
+                Princess Leia from the evil Darth Vader.
+            </p>
+        </plot>
+        <cast>
+            <actor id="hamill" role="Luke Skywalker">Mark Hamill</actor>
+            <actor id="ford" role="Han Solo">Harrison Ford</actor>
+            <actor id="fisher" role="Princess Leia">Carrie Fisher</actor>
+        </cast>
+    </movie>
+</movies>

@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <a href='@Url.Action("Index", "Bikes")'>
+        <img src="@Url.Content("~/Content/AOBC.png")" alt="IMAGES" />
+    </a>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Bikes</h2>
+        <p>
+            The widest selection of mountain, road and touring bikes online. The best brands and models always at the best prices.
+        </p>
+        <p>@Html.ActionLink("Browse Bikes", "Index", "Bikes", null, new { @class = "btn btn-default" })</p>
+    </div>
+    <div class="col-md-4">
+        <h2>Gear</h2>
+        <p>Get the best equipment here. High quality gear for the true bike fanatics from handle bars to vest we truly have everything.</p>
+        <p>@Html.ActionLink("Browse Gear", "Index", "Gear", null, new { @class = "btn btn-default" })</p>
+    </div>
+    <div class="col-md-4">
+        <h2>Accessories</h2>
+        <p>Bike Racks, Bike Stands, Bottles and Cages, Cleaners, Fenders, Tires and Tubes. Everything at the click of a button. </p>
+        <p>@Html.ActionLink("Browse Accessories", "Accessories", "Gear", null, new { @class = "btn btn-default" })</p>
+    </div>
+</div>
+

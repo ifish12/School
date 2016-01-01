@@ -1,0 +1,33 @@
+﻿@model IEnumerable<BikeDemo.Product>
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Bikes</h2>
+
+<div>
+    <h4>Detailed List</h4>
+    <hr />
+    <table class="table">
+        <tr>
+            <th>Name</th>
+            <th>Product Number</th>
+            <th>Colour</th>
+            <th>List Price</th>
+            <th>Size</th>
+            <th>Weight</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.ProductNumber</td>
+                <td>@item.Color</td>
+                <td>$@item.ListPrice</td>
+                <td>@item.Size</td>
+                <td>@item.Weight g</td>
+            </tr>
+        }
+        </table>
+</div>
