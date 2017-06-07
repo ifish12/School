@@ -1,12 +1,12 @@
-PHP - Web Programming
+School
 ---
 
-This was for a web programming class, also everything built on each other so I'm only posting the final copy
-
+---ORIGINAL CODE DO NOT STEAL---
+unoriginal code, feel free to use. 
 License
 ---
 
-Copyright (c) 2012-2016, Geoff Shapiro
+Copyright (c) 2012-2017, Geoff Shapiro
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without

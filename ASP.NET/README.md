@@ -1,12 +1,12 @@
 School
 ---
 
-There were a lot of assignments but they all built on each other so I didn't feel the need to post all of them
-
+---ORIGINAL CODE DO NOT STEAL---
+unoriginal code, feel free to use. 
 License
 ---
 
-Copyright (c) 2012-2016, Geoff Shapiro
+Copyright (c) 2012-2017, Geoff Shapiro
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
